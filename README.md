@@ -1,7 +1,7 @@
 # opticks_datascience
 
 The code is organized as follows:
-
+```
 ├── categoricaldata - Categorical data methodologies
 │   ├── hns - Implementation of HNS 
 │   └── hnsSvmClassifier - Implementation of HnsSvm classifier 
@@ -29,3 +29,4 @@ The code is organized as follows:
     │       └── module_rf
     ├── preprocessor - data preprocessing module, used by ML modules
     └── rf - random forest module class code
+```
